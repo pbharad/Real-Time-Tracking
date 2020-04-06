@@ -26,7 +26,7 @@ export default {
   name: 'TopBand',
   data () {
     return {
-      msg: 'Staples'
+      msg: ''
     }
   },
   methods:{
